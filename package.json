@@ -1,0 +1,26 @@
+{
+  "name": "javascript2",
+  "version": "0.0.1",
+  "description": "Project created with FrontEnd Tools: HTML5, CSS3 and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faviovelez/javascript2.git"
+  },
+  "keywords": [
+    "JS",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "npm"
+  ],
+  "author": "Favio Velez <favio.velez@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faviovelez/javascript2/issues"
+  },
+  "homepage": "https://github.com/faviovelez/javascript2#readme"
+}
