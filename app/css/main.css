@@ -5,12 +5,70 @@ body {
   border: 0;
   margin: 0;
   padding: 0;
-  margin-top: 70px;
   font-family: "Ubuntu", Arial, Verdana;
   font-size: 16px; }
 
 h2 {
   font-family: "Ubuntu";
   font-size: 32px; }
+
+.navbar {
+  margin-bottom: 0;
+  background: transparent;
+  border-bottom: 0;
+  font-size: 20.8px; }
+
+.navbar-brand {
+  font-size: 24px; }
+
+.container h1,
+.container p {
+  color: #fff; }
+
+.jumbo-text {
+  margin-top: 18%; }
+
+.btn-transparent,
+.btn-primary {
+  background: #000;
+  opacity: .5;
+  border: none; }
+
+.jumbotron {
+  background-image: url("https://hd.unsplash.com/photo-1435163570436-d7c1dee361c4");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh; }
+
+.caption p {
+  color: gray; }
+
+.modal-content {
+  background: #000;
+  opacity: .6; }
+
+.modal-body {
+  border-bottom: none; }
+
+h4#myModalLabel {
+  color: #fff; }
+
+button.btn.btn-primary {
+  border: 1px solid #fff; }
+
+.modal-body {
+  border: none; }
+
+.wide-video {
+  width: 100%; }
+
+.thumbnail {
+  border-radius: 3%;
+  padding: 0.6rem; }
+
+.thumbnail img {
+  border-radius: 3%; }
 
 /*# sourceMappingURL=main.css.map */
