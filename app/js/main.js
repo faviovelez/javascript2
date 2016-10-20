@@ -8,3 +8,5 @@ $(document).ready(function() {
 		interval: 2000
 	});
 });
+
+$("body").append("hola");
